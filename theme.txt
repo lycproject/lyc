@@ -1,0 +1,22 @@
+（已完成以上）
+
+了解Drupal主题覆盖的范围；
+主题开发和模板编辑；
+可以给到一些开发建议：模块开发和主题开发如何分工、合作？
+
+如何实现自定义“前端首页”和“后台首页”？
+理清drupal模板文件之间的作用以及联系？
+划清前端主题开发和后台主题开发的基本界限？
+模块开发人员和主题开发人员的可实践的具体合作方式？ 
+
+（未完成以下）
+
+偏前端主题开发技术（Phase2）：
+Drupal form api https://api.drupal.org/api/drupal/developer!topics!forms_api_reference.html/
+Panels 模块 https://www.drupal.org/project/panels
+
+Page Manager 模块 https://www.drupal.org/project/page_manager
+Views 模块系列文章介绍：
+View modes and field display https://www.drupal.org/node/1577702
+基本介绍 https://www.drupal.org/node/1578360
+高级使用 https://www.drupal.org/node/1578508  
